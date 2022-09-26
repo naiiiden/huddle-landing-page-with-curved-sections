@@ -83,7 +83,7 @@ h2 {/*main settings*/
     opacity: 80%;
 }
 
-main {
+.main {
     margin-top: 2.75rem;
     display: flex;
     flex-direction: column;
@@ -352,7 +352,7 @@ footer {
         border-radius: 35px;
     }
 
-    main {
+    .main {
         margin-top: 10rem;
         gap: 3rem;
     }/*main settings*/
