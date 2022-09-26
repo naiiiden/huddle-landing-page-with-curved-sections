@@ -267,7 +267,7 @@ footer {
 }
 
 #submit {
-    background-color:hsl(322, 100%, 66%);
+    background-color:#E0008E;
     color: #fff;
     font-family: "Poppins", sans-serif;
     padding: .5rem 1rem;
@@ -275,6 +275,8 @@ footer {
     border-radius: 5px;
     width: 50%;
     align-self: flex-end;
+    display: flex;
+    justify-content: center;
 }
 
 #submit:hover {
