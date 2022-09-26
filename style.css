@@ -62,7 +62,7 @@ h2 {/*main settings*/
 
 .maintext {
     color:hsl(192, 100%, 9%);
-    font-size: 15px;
+    font-size: .938rem;
     padding: 0 1.2rem;
 }
 
@@ -74,7 +74,7 @@ h2 {/*main settings*/
     padding: .70rem 1.5rem;
     border: none;
     border-radius: 25px;
-    font-size: 14px;
+    font-size: .875rem;
     width: 50%;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
@@ -113,16 +113,16 @@ h2 {/*main settings*/
 
 .bignumber {
     color:hsl(192, 100%, 9%);
-    font-size: 50px;
+    font-size: 3.125rem;
 }
 
 .align {
-    font-size: 44px;
+    font-size: 2.75rem;
 }
 
 .smalltext {
     color:rgba(29, 26, 26, 0.808);
-    font-size: 12px;
+    font-size: .75rem;
     align-self: center;
 }
 
@@ -338,12 +338,12 @@ footer {
         font-family: "Poppins";
         color:hsl(192, 100%, 9%);
         padding: 0 1.5rem;
-        font-size: 36px;
+        font-size: 2.25rem;
     }
     
     .maintext {
         color:hsl(192, 100%, 9%);
-        font-size: 18px;
+        font-size: 1.125rem;
         padding: 0 1.2rem;
         width: 31%;
     }
@@ -378,16 +378,16 @@ footer {
 
     .bignumber {
         color:hsl(192, 100%, 9%);
-        font-size: 74px;
+        font-size: 4.625rem;
     }
     
     .align {
-        font-size: 74px;
+        font-size: 4.625rem;
     }
     
     .smalltext {
         color:rgba(29, 26, 26, 0.808);
-        font-size: 18px;
+        font-size: 1.125rem;
         align-self: center;
     }/*first image and 2 statistics*/
 
@@ -420,7 +420,7 @@ footer {
     }
 
     h2 {
-        font-size: 40px;
+        font-size: 2.5rem;
     }/*grow together section*/
 
     .flowingconversation {/* flowing conversations section*/
